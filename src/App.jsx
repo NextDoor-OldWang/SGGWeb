@@ -6,7 +6,7 @@ export default class App extends Component{
     }
     render(){
         return(
-            <Button type='primary' onClick={this.handleClick}>学习</Button>
+            <Button type='primary' onClick={this.handleClick}>学习喽</Button>
         )
     }
 }
